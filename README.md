@@ -1,4 +1,6 @@
 # Chicago-Traffic-Crash-Analysis
+Chicago Traffic Crash Analysis using AWS Services and Python.
+
 This dataset contains information about traffic crashes in Chicago, including details about the incidents, vehicles involved, and people affected. The dataset is sourced from the Chicago Data Portal and is periodically updated. 
 
 ## Objectives
